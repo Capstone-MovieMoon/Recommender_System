@@ -1,3 +1,3 @@
-please position your data in this directory.
+## please position your data in this directory.
 
-In my case I used ml-20m dataset, so if you want to use custom dataset, you should reference ml-20m dataset.
+In my case I used ml-20m dataset, so if you want to use custom datasets, you should reference ml-20m dataset.
