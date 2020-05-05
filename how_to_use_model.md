@@ -1,8 +1,8 @@
 추천 정보 갱신할 때 삭제할 것
 1. ml-20m/pro_sg 폴더
 2. ml-20m/reconstructed폴더
-3. cf_list.csv 파일
-4. model.pt 파일
+3. ./cf_list.csv 파일
+4. ./model.pt 파일
 ---
 
 1. data_cleansing 돌리면 딥러닝 모델 돌아감
