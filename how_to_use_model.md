@@ -3,7 +3,7 @@
 2. ml-20m/reconstructed폴더
 3. cf_list.csv 파일
 4. model.pt 파일
-
+---
 
 1. data_cleansing 돌리면 딥러닝 모델 돌아감
 2. cf돌리면 추천이되는거임.   문제점 -> 서버한테 유저아이디를 받아와야함.
